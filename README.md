@@ -12,7 +12,6 @@
 * cmartorella@edge-security.com                                   *
 *******************************************************************
 ```
-[![Build Status](https://travis-ci.com/laramies/theHarvester.svg?branch=master)](https://travis-ci.com/laramies/theHarvester)
 
 What is this?
 -------------
