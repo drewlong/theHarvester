@@ -2,7 +2,7 @@ from theHarvester.lib import stash
 from datetime import datetime
 import plotly
 import plotly.graph_objs as go
-import plotly.plotly as py
+import chart_studio.plotly as py
 
 try:
     db = stash.stash_manager()
