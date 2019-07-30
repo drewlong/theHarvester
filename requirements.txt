@@ -6,3 +6,4 @@ PyYaml>=5.1.1
 requests>=2.22.0
 shodan>=1.13.0
 texttable>=1.6.1
+chart_studio>=1.0.0
